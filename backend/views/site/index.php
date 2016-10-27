@@ -17,9 +17,9 @@ $this->title = 'My Yii Application';
     <div class="body-content">
         <div class="container">
             <div class="row">
-                <a href="body"><h3>Body</h3></a>
-                <a href="brand"><h3>Brand</h3></a>
-                <a href="car-model"><h3>Car-model</h3></a>
+                <a class="black" href="body"><h3>Body</h3></a>
+                <a class="black" href="brand"><h3>Brand</h3></a>
+                <a class="black" href="car-model"><h3>Car-model</h3></a>
             </div>
         </div>
     
