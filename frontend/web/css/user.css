@@ -1,0 +1,40 @@
+.text-align-center{
+	text-align:center;
+}
+.max-width-100{
+	max-width: 100px;
+}
+.float-left{
+	float:left;
+}
+.bot-30{
+	position:relative;
+	bottom:30px;
+}
+.padding-10{
+	padding:10px;
+}
+.black{
+	color:black;
+}
+.bot-60{
+	position:relative;
+	bottom:60px;
+}
+.bot-120{
+	position:relative;
+	bottom:120px;
+}
+.right-10{
+	position:relative;
+	right:10px;
+}
+.max-70p{
+	max-width:70%;
+}
+.max-100p{
+	max-width:100%;
+}
+.padding-left-0{
+	padding-left: 0px !important;
+}
